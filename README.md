@@ -4,4 +4,4 @@
 
 ## Integration to Frontend side
 
-## Build with vanilla nodejs
+## Build with Framework Hapi
